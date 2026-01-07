@@ -1,32 +1,60 @@
-# 👋 Hi, I'm Fidel Castro
+# 👋 Yo, I’m Fidel Castro
+  
+⚙️ Full-Stack Developer (Python-first)  
+💡 Inventor by instinct, engineer by discipline  
 
-🧠 First-year CS student | ⚙️ Full-stack Dev | 💡 Inventor at heart  
-🇰🇪 From Kenya | 🛰️ Building Neptune: AI software to power the future  
+🇰🇪 Kenya | 🛰️ Building **Neptune** — AI software to power the future  
 
----
-
-### 🚀 What I’m working on:
-- 💸 **MoneyManager** – A personal finance tracker built with KivyMD + FastAPI  
-- 📘 **CS Course Book App** – A nonprofit learning app for high school students (Form 1–4)
-- 📘 **Social News App** - A cool app for sharing trendy stuff over internet
-- ***Hospital Management System** That works online and over local area network
--    **Point Of Sale App** That is multiuser and efficient for supermarkets and medium shops.
-- 📊 **Admin Dashboards** for topic/content control & tracking user engagement  
-- 🧼 Minimalist tools that solve real-life problems (for myself & others)
+> I don’t collect certificates.  
+> I **ship software**.
 
 ---
 
-### 🌱 Currently learning:
-- Django & REST APIs
-- Scrapy for smart web scraping
-- ScikitLearn for improved user dashboards
-- Go programming for improved high speed scalable apis
-- Spring Boot for working with already existing APIs
-- Flutter and Dart programming for mobile app development.
+## 🚀 What I’m Building (aka: I don’t just “learn”)
+I build things that solve real problems — starting with mine.
+
+- 💸 **MoneyManager**  
+  Personal finance tracker built with **KivyMD + FastAPI**  
+  *(I had no money management skills. I wrote code instead.)*
+
+- 📘 **CS Course Book App (Form 1–4)**  
+  A **non-profit learning app** for high school students  
+  Structured content, quizzes, images, videos — no nonsense
+
+- 📰 **Social News App**  
+  Share, discover, and argue about **trending internet content**
+
+- 🏥 **Hospital Management System**  
+  Works **online AND over LAN**  
+  Because hospitals don’t have time for “offline errors”
+
+- 🧾 **Point of Sale (POS) System**  
+  Multi-user, fast, and built for **supermarkets & medium shops**
+
+- 📊 **Admin Dashboards**  
+  Content control, analytics, user tracking  
+  (If you can’t measure it, you don’t own it.)
+
+- 🧼 **Minimalist Tools**  
+  Small, sharp software that does ONE thing well
 
 ---
 
-### 🧰 Tech Stack:
+## 🌱 What I’m Leveling Up Right Now
+I don’t chase hype. I chase **leverage**.
+
+- Django & REST APIs  
+- Scrapy (smart, ethical web scraping)  
+- Scikit-Learn (data-driven dashboards & insights)  
+- Go (high-speed, scalable APIs)  
+- Spring Boot (working with enterprise-grade systems)  
+- Flutter & Dart (real mobile apps, not demos)
+
+---
+
+## 🧰 Weapons of Choice
+Python is home. Everything else is a tool.
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![KivyMD](https://img.shields.io/badge/KivyMD-4A4A4A?style=for-the-badge&logo=android&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -36,19 +64,30 @@
 
 ---
 
-### 💭 Fun Facts:
-- I made the money manager app because I have no money management skills. LOL
-- I cruised Buildozer hell with bruises, but i got a working APK
-- I once wrote code on paper and debugged it myself!! In my head
-- I love cats and it's a red flag when one doesn't love cats.
+## 💭 Lore (Read This)
+- I survived **Buildozer hell**, crawled out bleeding, and shipped a working APK  
+- I’ve written code **on paper** and debugged it in my head  
+- I prefer backend logic over pretty buttons  
+- I love cats 🐈 — not liking cats is a red flag  
+- Old projects make me cringe. That’s how I know I’m growing.
 
 ---
 
-### 📫 How to reach me:
-- Email: werecastro2006@gmail.com
-- GitHub: [github.com/b100mBUG](https://github.com/b100mBUG)
-- LinkedIN: [LinkedIn](https://www.linkedin.com/in/fidel-castro-56a2b7263/)
+## 📫 Reach Me (If You’re Serious)
+- 📧 Email: **werecastro2006@gmail.com**  
+- 🐙 GitHub: https://github.com/b100mBUG  
+- 💼 LinkedIn: https://www.linkedin.com/in/fidel-castro-56a2b7263/
 
 ---
 
-> _“The world rewards people who ship.”_ – Join me as I build the future, one commit at a time.
+## 🛰️ Neptune (The Long Game)
+Neptune is my AI software company in the making.  
+Not vibes. Not buzzwords.  
+**Systems that work. Software that lasts.**
+
+---
+
+> “The world doesn’t reward potential.  
+> It rewards people who **ship**.”
+
+I’m building the future — **one commit at a time**.
