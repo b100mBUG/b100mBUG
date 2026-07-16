@@ -26,5 +26,5 @@ I got through Buildozer packaging hell and came out the other side with a workin
 ## Reach me
 
 - Email: werecastro2006@gmail.com
-- LinkedIn: https://www.linkedin.com/in/fidel-castro-56a2b7263/
+- LinkedIn: https://www.linkedin.com/in/king-kastro/
 - Portfolio: https://werefidelcastro.onrender.com/
