@@ -1,6 +1,6 @@
 # King Kastro
 
-Yoh. I code. Mostly Python, mostly backend, mostly for East Africa.
+Yoh. I code. Mostly Python, mostly backend.
 
 Pinned repos below if you're curious.
 
